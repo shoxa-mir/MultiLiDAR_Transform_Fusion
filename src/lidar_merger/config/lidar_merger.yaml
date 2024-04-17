@@ -1,0 +1,18 @@
+{
+  'lidar1': {
+    'topic': '/lidar1/pointCloud',
+    'frame_id': 'lidar1',
+    'static_transform': {
+        'translation': [0.0, 0.0, 0.0],
+        'rotation': [0.0, 0.0, 0.0, 0.0]
+    }
+  },
+  'lidar2': {
+    'topic': '/lidar2/pointCloud',
+    'frame_id': 'lidar2',
+    'static_transform': {
+        'translation': [1.2, 2.5, -0.4],
+        'rotation': [0.0, 0.0, 0.7071, 0.7071]
+    }
+  },
+}
