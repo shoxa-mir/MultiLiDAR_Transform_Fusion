@@ -17,6 +17,7 @@ _(documentation writing in progress)_
     </tr>
 </table>
 
+### 3D view
 <div style="max-width: 30%;">
     <img src="media/3d_view.jpg" style="width: 50%; float: right;">
 </div>
