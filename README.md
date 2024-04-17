@@ -4,11 +4,7 @@ _(documentation writing in progress)_
 
 <!-- add result images -->
 
-<table>
-    <tr>
-        <img src="media/top_view.jpg">
-    </tr>
-    <tr>
-        <img src="media/3d_view.jpg">
-    </tr>
-</table>
+<div style="max-width: 30%;">
+    <img src="media/top_view.jpg" style="width: 50%; float: left;">
+    <img src="media/3d_view.jpg" style="width: 50%; float: right;">
+</div>
