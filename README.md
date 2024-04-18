@@ -1,10 +1,10 @@
-# MultiLiDAR_Transform_Fusion
+## MultiLiDAR_Transform_Fusion
 
 _(documentation writing in progress)_
 
 <!-- add result images -->
 
-## MultiLiDAR Points combined results
+### MultiLiDAR Points combined results
 
 <table style="max-width: 30%;">
     <tr>
@@ -17,12 +17,12 @@ _(documentation writing in progress)_
     </tr>
 </table>
 
-### 3D view of full scene
+#### 3D view of full scene
 <div style="max-width: 30%;">
     <img src="media/3d_view.jpg" style="width: 50%; float: right;">
 </div>
 
-## How to use
+### How to use
 #### Step 1: Inititalize and Build ROS Environment
 ```bash
 git clone https://github.com/shoxa-mir/MultiLiDAR_Transform_Fusion.git MultiLiDAR_Transform_Fusion/
