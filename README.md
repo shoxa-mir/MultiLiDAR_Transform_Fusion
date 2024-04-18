@@ -18,8 +18,8 @@ _(documentation writing in progress)_
 </table>
 
 #### 3D view of full scene
-<div style="max-width: 30%;">
-    <img src="media/3d_view.jpg" style="width: 80%; float: center;">
+<div style="max-width: 30%; margin: 0 auto;">
+    <img src="media/3d_view.jpg" style="width: 80%;">
 </div>
 
 ## 📖 How to use
