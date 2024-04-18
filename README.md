@@ -19,7 +19,7 @@ _(documentation writing in progress)_
 
 #### 3D view of full scene
 <div style="max-width: 30%;">
-    <img src="media/3d_view.jpg" style="width: 50%; float: right;">
+    <img src="media/3d_view.jpg" style="width: 80%; float: center;">
 </div>
 
 ## 📖 How to use
