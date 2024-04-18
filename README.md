@@ -2,6 +2,13 @@
 
 _(documentation writing in progress)_
 
+```shell
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
 <!-- add result images -->
 
 ## MultiLiDAR Points combined results
