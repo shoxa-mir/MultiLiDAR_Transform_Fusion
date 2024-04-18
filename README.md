@@ -58,12 +58,12 @@ source devel/setup.bash
 ```
 
 ### Step 4: Run ```lidar_merger``` Node
-To run from incode configs run:
+To run from `incode configs` run:
 ```bash
 rosrun lidar_merger lidar_merge.py
 ```
 
-To run using config file:
+To run using `config file`:
 ```bash
 rosrun lidar_merger lidar_merge_from_cfg.py
 ```
