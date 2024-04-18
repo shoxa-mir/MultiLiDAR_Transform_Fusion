@@ -23,12 +23,12 @@ _(documentation writing in progress)_
 </div>
 
 ## How to use
-### Step 1: Inititalize and Build ROS Environment
+#### Step 1: Inititalize and Build ROS Environment
 ```bash
 git clone https://github.com/shoxa-mir/MultiLiDAR_Transform_Fusion.git MultiLiDAR_Transform_Fusion/
 ```
 
-### Step 2: Modify `(path_to_root)/MultiLiDAR_Transform_Fusion/src/lidar_merger/config/lidar_merger.yaml` File With Desired Translation and Rotations
+#### Step 2: Modify `(path_to_root)/MultiLiDAR_Transform_Fusion/src/lidar_merger/config/lidar_merger.yaml` File With Desired Translation and Rotations
 ```yaml
 {
   'lidar1': {
@@ -50,14 +50,14 @@ git clone https://github.com/shoxa-mir/MultiLiDAR_Transform_Fusion.git MultiLiDA
 }
 ```
 
-### Step 3 Inititalize and Build ROS Environment
+#### Step 3 Inititalize and Build ROS Environment
 ```bash
 cd (path_to_root)/MultiLiDAR_Transform_Fusion/
 catkin_make
 source devel/setup.bash
 ```
 
-### Step 4: Run ```lidar_merger``` Node
+#### Step 4: Run ```lidar_merger``` Node
 To run from `incode configs` run:
 ```bash
 rosrun lidar_merger lidar_merge.py
