@@ -2,7 +2,7 @@
 
 _(documentation writing in progress)_
 
-```shell
+```python
 var foo = function(x) {
   return(x + 5);
 }
