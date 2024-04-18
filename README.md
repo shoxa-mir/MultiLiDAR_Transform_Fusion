@@ -22,7 +22,7 @@ _(documentation writing in progress)_
     <img src="media/3d_view.jpg" style="width: 50%; float: right;">
 </div>
 
-### How to use
+### 📖 How to use
 #### Step 1: Inititalize and Build ROS Environment
 ```bash
 git clone https://github.com/shoxa-mir/MultiLiDAR_Transform_Fusion.git MultiLiDAR_Transform_Fusion/
