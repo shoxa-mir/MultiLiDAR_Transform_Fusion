@@ -28,7 +28,7 @@ _(documentation writing in progress)_
 git clone https://github.com/shoxa-mir/MultiLiDAR_Transform_Fusion.git MultiLiDAR_Transform_Fusion/
 ```
 
-### Step 2: Modify `_(path_to_root)_/MultiLiDAR_Transform_Fusion/src/lidar_merger/config/lidar_merger.yaml` File With Desired Translation and Rotations
+### Step 2: Modify `(path_to_root)/MultiLiDAR_Transform_Fusion/src/lidar_merger/config/lidar_merger.yaml` File With Desired Translation and Rotations
 ```yaml
 {
   'lidar1': {
@@ -52,7 +52,7 @@ git clone https://github.com/shoxa-mir/MultiLiDAR_Transform_Fusion.git MultiLiDA
 
 ### Step 1: Inititalize and Build ROS Environment
 ```bash
-cd _(path_to_root)_/MultiLiDAR_Transform_Fusion/
+cd (path_to_root)/MultiLiDAR_Transform_Fusion/
 catkin_make
 source devel/setup.bash
 ```
