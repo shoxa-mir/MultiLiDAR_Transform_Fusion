@@ -65,7 +65,9 @@ rosrun lidar_merger lidar_merge_from_cfg.py
 
 #### Step 4: Run `rviz` or Any Other Tool to Visualize Results
 
-#### 3D view of full scene
+<p style="text_align: center;">
+    **3D view of full scene**
+</p>
 <div style="max-width: 30%; margin: 0 auto;">
     <img src="media/3d_view.jpg" style="width: 100%;">
 </div>
