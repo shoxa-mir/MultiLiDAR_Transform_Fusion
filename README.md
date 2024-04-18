@@ -50,7 +50,7 @@ git clone https://github.com/shoxa-mir/MultiLiDAR_Transform_Fusion.git MultiLiDA
 }
 ```
 
-### Step 1: Inititalize and Build ROS Environment
+### Step 3 Inititalize and Build ROS Environment
 ```bash
 cd (path_to_root)/MultiLiDAR_Transform_Fusion/
 catkin_make
