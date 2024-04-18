@@ -2,13 +2,6 @@
 
 _(documentation writing in progress)_
 
-```bash
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
 <!-- add result images -->
 
 ## MultiLiDAR Points combined results
@@ -28,3 +21,14 @@ foo(3)
 <div style="max-width: 30%;">
     <img src="media/3d_view.jpg" style="width: 50%; float: right;">
 </div>
+
+## How to use
+### Step 1: Inititalize and Build ROS Environment
+```bash
+cd ~/MultiLiDAR_Transform_Fusion/
+catkin_make
+source devel/setup.bash
+```
+
+### Step 2: Run ```lidar_merger``` Node
+
