@@ -17,11 +17,6 @@ _(documentation writing in progress)_
     </tr>
 </table>
 
-#### 3D view of full scene
-<div style="max-width: 30%; margin: 0 auto;">
-    <img src="media/3d_view.jpg" style="width: 100%;">
-</div>
-
 ## 📖 How to use
 #### Step 1: Inititalize and Build ROS Environment
 ```bash
@@ -57,7 +52,7 @@ catkin_make
 source devel/setup.bash
 ```
 
-#### Step 4: Run ```lidar_merger``` Node
+#### Step 4: Run `lidar_merger` Node
 To run from `incode configs` run:
 ```bash
 rosrun lidar_merger lidar_merge.py
@@ -68,3 +63,9 @@ To run using `config file`:
 rosrun lidar_merger lidar_merge_from_cfg.py
 ```
 
+#### Step 4: Run `rviz` or Any Other Tool to Visualize Results
+
+#### 3D view of full scene
+<div style="max-width: 30%; margin: 0 auto;">
+    <img src="media/3d_view.jpg" style="width: 100%;">
+</div>
